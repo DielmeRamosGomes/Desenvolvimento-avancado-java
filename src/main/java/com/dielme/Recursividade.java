@@ -1,7 +1,5 @@
 package com.dielme;
 
-import javax.swing.JOptionPane;
-
 public class Recursividade {
 
     public static void main(String[] args) {
